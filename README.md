@@ -149,4 +149,4 @@ Project Link: [Click Here](https://github.com/ed6dev/Wordle_Discord_Bot)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/sneak-peek.png

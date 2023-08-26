@@ -1,0 +1,19 @@
+{
+  "name": "revamped-wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.13.0",
+    "djs-commander": "^0.0.50",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.5"
+  }
+}
